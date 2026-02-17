@@ -55,4 +55,4 @@
 
 ##  Пример запуска
 Компиляция javac Main.java
-java Main -s -a -p sample- in1.txt in2.txt (примеры данных лежат в папке src)
+Запуск java Main -s -a -p sample- in1.txt in2.txt (примеры данных лежат в папке src)
